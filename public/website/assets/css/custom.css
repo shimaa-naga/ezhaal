@@ -1,0 +1,31 @@
+/**
+* Template Name: MyBiz - v4.0.1
+* Template URL: https://bootstrapmade.com/mybiz-free-business-bootstrap-theme/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+body {
+  font-size: 14px;
+}
+button.btn.btn-xs
+{
+    padding: 1px 5px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+.sm
+{
+    font-size: 12px;
+}
+.team .member .member-info {
+    padding-left: 0px;
+    min-width: 400px;
+}
+img.rounded-circle.float-left {
+    margin-right: 20px;
+}
